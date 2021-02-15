@@ -24,5 +24,5 @@ def to_morse_code(text):
     return morse_code
 
 
-text = input('Enter your text: ')
+text = input('Enter your text here: ')
 print(to_morse_code(text))
